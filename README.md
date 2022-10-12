@@ -7,9 +7,9 @@
 ### This repo contains the following files: <br>
 Jupyter notebook of main script (C3RO.ipynb) - This notebook contains all the code neccessary to perform the analyses outlined in the manuscript. <br>
 
-CSV files associated with Turing test analysis (Turing_test_slice_key_v2_FULLYANONYMIZED_FINAL.csv, Turing_test_subset_information_withanonkey_v2_FULLYANONYMIZED_FINAL.csv) - CSV files that were used as intermediates in generating Turing test results. <br>
+Pickle files associated with pairwise interobserver measurements (df_full_breast_allmetrics_expvsnonexp.pkl, df_full_sarcoma_final.pkl, df_full_H&N_allmetrics_expvsnonexp.pkl, df_full_GYN.pkl, df_full_GI.pkl) - Python Pickle files that were used as intermediates in generating results. Saved as intermediates because of long time to calculate. <br>
 
-Excel files associated with Turing test analysis (Turing_test_v2_obs1.xlsx, Turing_test_v2_obs2.xlsx, Turing_test_v2_obs3) - Excel files that each observer produced when perfomring the visual Turing test; used for analysis. <br>
+Pickle files associated with bootstrap experiments (bootstrap100_expvsnonexp.pkl, bootstrap100_sarcoma.pkl, bootstrap100_H&N_expvsnonexp.pkl, bootstrap100_GYN.pkl, bootstrap100_GI.pkl) - Python Pickle files that were used to save bootstrap results. Saved as seperate files you can reference later because of long time to calculate 100 bootstraps. <br>
 
 ### Utilized the following core Python (version 3.8.8) libraries in project: <br>
 
