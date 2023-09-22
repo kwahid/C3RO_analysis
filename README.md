@@ -1,6 +1,6 @@
 # Prospective acceptability benchmarking from the Contouring Collaborative for Consensus in Radiation Oncology (C3RO) Crowdsourced Initiative for Multi-Observer Segmentation
 
-## Repo for code related to C3RO project. Pre-print available at: https://www.medrxiv.org/content/10.1101/2022.09.23.22280295v1. Manuscript currently under peer-review, when accepted link will be updated here. Corresponding image sets used for this project are avaliable on Figshare (data doi: 10.6084/m9.figshare.21074182). Data descriptor located at: https://www.medrxiv.org/content/10.1101/2022.10.05.22280672v1. All data has been anonymized to remove patient PHI. <br>
+## Repo for code related to C3RO project. Manuscript available at: https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-S1/S11903/E-pluribus-unum--prospective-acceptability-benchmarking-from-the-Contouring/10.1117/1.JMI.10.S1.S11903.full?SSO=1. Corresponding image sets used for this project are avaliable on Figshare (data doi: 10.6084/m9.figshare.21074182). Data descriptor located at: https://www.nature.com/articles/s41597-023-02062-w. All data has been anonymized to remove patient PHI. <br>
 
 <img src= "overview_figure.png" width="700">
 
